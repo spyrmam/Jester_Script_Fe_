@@ -37,7 +37,7 @@ do
     end
     m.TrigEvent = te
     UIS.TrigEvent = te
-
+local RunService = FakeRervice
     Event.OnServerEvent:Connect(function(plr,io)
         if plr~=rp then return end
         m.Target = io.Target
