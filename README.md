@@ -2,7 +2,7 @@ if game:GetService("RunService"):IsClient() then error("Script must be server-si
 local Player,game,owner = owner,game
 local RealPlayer = Player
 do
-    print("this shit was made by spyrmam!")
+    print("this shit was fe converted by spyrmam!")
     local rp = RealPlayer
     script.Parent = rp.Character
 
