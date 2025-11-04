@@ -1380,7 +1380,7 @@ s.Name = "Jester"
 s.Volume = 2.5
 s.Pitch = 1
 s.Looped = true
-s.SoundId = "rbxassetid://73099"
+s.SoundId = "rbxassetid://59676"
 s:Play()
 local SONG = 0
 local SONG2 = 0
