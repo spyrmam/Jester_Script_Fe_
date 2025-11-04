@@ -1380,7 +1380,7 @@ s.Name = "Jester"
 s.Volume = 2.5
 s.Pitch = 0.70
 s.Looped = true
-s.SoundId = "rbxassetid://https://audio.jukehost.co.uk/UZQrJiKqsEFc90wctNzqez8491dxiH49"
+s.SoundId = "rbxassetid://53649"
 s:Play()
 local SONG = 0
 local SONG2 = 0
@@ -1548,7 +1548,7 @@ function Sie_alle_sterben()
 	end
 	coroutine.resume(coroutine.create(function()
 		orb.Anchored = false
-		CFuncs.Sound.Create("rbxassetid://https://audio.jukehost.co.uk/SDaxSYUp5bSLi2mQFIgQorgOYHT5Jt5h", root, 1.85, 1)
+		CFuncs.Sound.Create("rbxassetid://907528019", root, 1.85, 1)
 		local a = Instance.new("Part", workspace)
 		a.Name = "Direction"
 		a.Anchored = true
@@ -1577,7 +1577,7 @@ function Sie_alle_sterben()
 			if hitted == false then
 				hitted = true
 				CameraEnshaking(10, 20)
-				CFuncs.Sound.Create("rbxassetid://https://audio.jukehost.co.uk/NSfGSQRwnqUTWZlJ2SjA6kd21dpbEYcg", char, 5, 0.7)
+				CFuncs.Sound.Create("rbxassetid://304490261", char, 5, 0.7)
 				for i, v in pairs(FindNearestHead(orb.CFrame.p, 100)) do
 					if v:FindFirstChild("Head") then
 						Eviscerate(v)
