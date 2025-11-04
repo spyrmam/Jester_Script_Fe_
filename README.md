@@ -1454,7 +1454,7 @@ end
 function Fun_Times_Ahead()
 	attack = true
 	movelegs = true
-	local Laughing = Cso("https://audio.jukehost.co.uk/VAbfbdUCDUviqYEiRw0noQUXn1reHSPs", hed, 5, 0.8)
+	local Laughing = Cso("2011351501", hed, 5, 0.8)
 	swait(2)
 	repeat
 		swait()
@@ -1471,7 +1471,7 @@ end
 function Fun_Times_Ahead_2()
 	attack = true
 	movelegs = true
-	local Laughing = Cso("https://audio.jukehost.co.uk/VAbfbdUCDUviqYEiRw0noQUXn1reHSPs", hed, 5, 0.8)
+	local Laughing = Cso("2011351501", hed, 5, 0.8)
 	swait(2)
 	repeat
 		swait()
@@ -1521,7 +1521,7 @@ function Sie_alle_sterben()
 	orbm.Scale = Vector3.new(0, 0, 0)
 	local scaled = 0.1
 	local posid = 0
-	local RoaringLaugh = Cso("https://audio.jukehost.co.uk/VAbfbdUCDUviqYEiRw0noQUXn1reHSPs", char, 5, 0.8)
+	local RoaringLaugh = Cso("2011351501", char, 5, 0.8)
 	swait(2)
 	for i = 0, 30, 0.1 do
 		swait()
