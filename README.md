@@ -1377,7 +1377,7 @@ end
 ----------------------------------------------------------------------------------
 local s = Instance.new("Sound",tors)
 s.Name = "Jester"
-s.Volume = 3
+s.Volume = 2.5
 s.Pitch = 1
 s.Looped = true
 s.SoundId = "rbxassetid://73099"
