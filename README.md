@@ -1378,9 +1378,9 @@ end
 local s = Instance.new("Sound",tors)
 s.Name = "Jester"
 s.Volume = 2.5
-s.Pitch = 1
+s.Pitch = 0.84
 s.Looped = true
-s.SoundId = "rbxassetid://59676"
+s.SoundId = "rbxassetid://64614"
 s:Play()
 local SONG = 0
 local SONG2 = 0
