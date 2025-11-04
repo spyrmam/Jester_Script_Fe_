@@ -1782,7 +1782,7 @@ end)
 -------------------------------------------------------
 --Start Animations--
 -------------------------------------------------------
-print("By Makhail07 fixed by spyrmam!1!")
+print("By Makhail07 & fixed by spyrmam!1!")
 while true do
 	swait()
 	sine = sine + change
